@@ -1,0 +1,11 @@
+Cliente numero: 0
+ID de cliente: 1
+Nombre del cliente: 1
+Apellido paterno del cliente: 1
+Apellido materno del cliente: 1
+Nombre de usuario del cliente: 1
+Contraseña del cliente: 1
+ID de cuentas del cliente: 1
+Saldo de la cuenta de ahorros (Debito): 11111.000000
+Saldo de adeudos con el banco (Credito): 100000.000000
+

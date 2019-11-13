@@ -1,0 +1,15 @@
+
+
+Empleado 1 de la lista
+NÃºmero de empleado: 1
+Nombre de empleado: 1
+Departamento del empleado: 1
+Salario de empleado: 1.000000
+DirecciÃ³n del empleado: 1
+
+Empleado 2 de la lista
+NÃºmero de empleado: 2
+Nombre de empleado: 2
+Departamento del empleado: 2
+Salario de empleado: 2.000000
+DirecciÃ³n del empleado: 2
